@@ -1,10 +1,10 @@
 # cudocom-chart
 
-#SET UP
+# SET UP
 pnpm install
 
 
 
-#START
+# START
 pnpm run dev
 run on http://localhost:5137
