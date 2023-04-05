@@ -1,6 +1,8 @@
 # cudocom-chart
 
 # SET UP
+git clone https://github.com/yuurha12/cudocom-chart.git
+
 pnpm install
 
 
